@@ -11,3 +11,20 @@ I profili da 470mm (40x20) e quello da 470 (20x20) devono essere filettati M5 da
 The B2V frame is obtained from the frame parts of the BLV, cutting some profiles and others simply recovering them as they are. Some profiles must be drilled to size, as indicated in the PDF, you can help yourself with the appropriate Jig (tools folder).
 
 The 470mm (40x20) and 470mm (20x20) profiles must be M5 threaded from both ends. The 400mm profile (20x20) is only threaded on one side. All this is indicated in the technical drawing in PDF.
+
+---
+
+Profili/Profiles 20x20:
+83 mm
+220 mm x 2pz
+260 mm
+345 mm
+400 mm
+430 mm
+445 mm
+470 mm
+
+Profili/Profiles 40x20:
+470 mm x 9pz
+560 mm x 4px 
+
