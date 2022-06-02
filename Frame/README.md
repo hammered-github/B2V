@@ -14,16 +14,6 @@ The 470mm (40x20) and 470mm (20x20) profiles must be M5 threaded from both ends.
 
 ---
 
-Profili/Profiles 20x20:
-83 mm
-220 mm x 2pz
-260 mm
-345 mm
-400 mm
-430 mm
-445 mm
-470 mm
+Profili/Profiles 20x20: 83mm, 220mm x 2pz, 260mm, 345mm, 400mm, 430mm, 445mm, 470mm
 
-Profili/Profiles 40x20:
-470 mm x 9pz
-560 mm x 4px 
+Profili/Profiles 40x20: 470 m x 9pz, 560mm x 4px 
