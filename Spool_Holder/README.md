@@ -5,5 +5,7 @@
 Material Required:
 - 2pz - F695 2RS
 - 3pz - M5x20
+- 4pz - M3x8
+- 4pz - M3 TNut
 ---
 
