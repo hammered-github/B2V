@@ -24,6 +24,8 @@ The project is open source, all the parts necessary for the realization of the p
 
 Enjoy yourself!
 
+[![](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate/?business=WEP7ZAT7WRN88&no_recurring=0&currency_code=EUR)
+
 <form action="https://www.paypal.com/donate" method="post" target="_top">
 <input type="hidden" name="business" value="WEP7ZAT7WRN88" />
 <input type="hidden" name="no_recurring" value="0" />
