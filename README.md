@@ -34,3 +34,4 @@ Enjoy yourself!
 <img alt="" border="0" src="https://www.paypal.com/en_IT/i/scr/pixel.gif" width="1" height="1" />
 </form>
 
+<p align="center"><em>• non si assume nessuna responsabilità • assumes no responsibility •</em></p>
