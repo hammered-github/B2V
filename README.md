@@ -34,7 +34,4 @@ Enjoy yourself!
 <img alt="" border="0" src="https://www.paypal.com/en_IT/i/scr/pixel.gif" width="1" height="1" />
 </form>
 
-
-<a href='https://ko-fi.com/hammered82' target='_blank'><img height='46' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a> 
-
 <p align="center"><em>• non si assume nessuna responsabilità • assumes no responsibility •</em></p>
