@@ -24,6 +24,5 @@ The project is open source, all the parts necessary for the realization of the p
 
 Enjoy yourself!
 
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate/?business=WEP7ZAT7WRN88&no_recurring=0&currency_code=EUR)  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M7GE5GO)
-
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate/?business=WEP7ZAT7WRN88&no_recurring=0&currency_code=EUR)  
 <p align="center"><sub><em>• non si assume nessuna responsabilità • assumes no responsibility •</em></sub></p>
