@@ -26,7 +26,7 @@ Enjoy yourself!
 
 ---
 
-La stampante presente nel video di ![Power3D](https://www.youtube.com/watch?v=n7MDWOTaD58&t=183s) prende come base questo progetto, ma é stata modificata con vari upgrade da ![FBServiceTech3D](https://github.com/FBServiceTech3D). The printer featured in the ![Power3D](https://www.youtube.com/watch?v=n7MDWOTaD58&t=183s) video is based on this project, but has been modified with various upgrades by ![FBServiceTech3D](https://github.com/FBServiceTech3D).
+La stampante presente nel video di [!Power3D](https://www.youtube.com/watch?v=n7MDWOTaD58&t) prende come base questo progetto, ma é stata modificata con vari upgrade da ![FBServiceTech3D](https://github.com/FBServiceTech3D). The printer featured in the ![Power3D](https://www.youtube.com/watch?v=n7MDWOTaD58&t=183s) video is based on this project, but has been modified with various upgrades by ![FBServiceTech3D](https://github.com/FBServiceTech3D).
 
 ---
 
