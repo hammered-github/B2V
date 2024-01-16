@@ -1,6 +1,6 @@
 # Gantry B2V
 
-![1](/Gantry/Image/Gantry.jpg)
+![1](/gantry/image/ass_gantry_trident_voron.jpg)
 
 ---
 
