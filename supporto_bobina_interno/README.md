@@ -1,4 +1,4 @@
-# Spool Holder B2V
+# Supporto bobina interno B2V
 
 ![1](/images/ass_b2v_supporto_bobina_interno.jpg)
 
