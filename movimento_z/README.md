@@ -1,6 +1,6 @@
 # Z Assembly B2V
 
-![1](/Z_Assembly/Image/Z.jpg)
+![1](/images/ass_b2v_movimento_z.jpg)
 
 ---
 
