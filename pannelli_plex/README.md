@@ -1,4 +1,4 @@
-# Panels B2V
+# Pannelli chiusara B2V
 
 ![1](/images/ass_b2v_plex_completi.jpg)
 
