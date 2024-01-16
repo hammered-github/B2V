@@ -1,4 +1,4 @@
-# Bed Print B2V
+# Piano Stampa B2V
 
 ![1](/images/ass_b2v_piano_stampa.jpg)
 
