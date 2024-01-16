@@ -1,6 +1,6 @@
 # BLV to Voron
 
-![1](/Image/ass_B2V.jpg)
+![1](/image/ass_B2V.jpg)
 
 B2V è un progetto nato a febbraio 2022 in collaborazione con Mario. Partendo da una stampante BLV MGN Cube di Ben Levi (funzionante) si crea una conversione a Trident di Voron. Il progetto è stato sviluppato per riutilizzare il più possibile i componenti della BLV, modificandoli il meno possibile. Questa conversione coinvolge l’intera macchina (asse X/Y/Z). Per quanto riguarda il corpo estrusore, puoi assemblare ogni tipo di testa Voron compatibile MGN12. Tutta la parte del gantry è esattamente la versione Trident di Voron, potete prendere tutti i file stl direttamente dal github voron.
 

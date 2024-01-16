@@ -1,6 +1,6 @@
 # Telaio B2V
 
-![1](/Frame/Image/Telaio_Frame.jpg)
+![1](/telaio/image/ass_b2v_telaio.jpg)
 
 Il telaio B2V si ricava dalle parti di telaio della BLV, tagliando alcuni profili ed altri semplicemente recuperandoli così come sono. Alcuni profili devono essere forati a misura, come indicato nei PDF, ci si può aiutare con gli appositi Jig (cartella tools).
 
