@@ -1,6 +1,6 @@
 # Panels B2V
 
-![1](/Panels/Image/Panels.jpg)
+![1](/images/ass_b2v_plex_completi.jpg)
 
 ---
 
