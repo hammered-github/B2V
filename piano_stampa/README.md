@@ -1,6 +1,6 @@
 # Bed Print B2V
 
-![1](/Bed/Image/Bed_Frame.JPG)
+![1](/images/ass_b2v_piano_stampa.jpg)
 
 ---
 
