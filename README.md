@@ -1,4 +1,4 @@
-# BLV to Voron
+## BLV to Voron
 
 ![1](images/ass_b2v.jpg)
 
@@ -11,8 +11,7 @@ Si raccomanda: materiale ABS, riempimento 40%, strati superiore/inferiori 5 e pa
 Il progetto è open source, tutte le parti necessarie alla realizzazione del progetto sono liberamente stampabili.
 
 Divertiti!
-
----
+#
 
 B2V is a project born in February 2022 in collaboration with Mario. Starting from a Ben Levi BLV MGN Cube printer (working) a conversion to Voron's Trident is created. The project was developed to reuse the components of the BLV as much as possible, modifying them as little as possible. This conversion involves the entire machine (X/Y/Z axis). As for the extruder body, you can assemble any type of Voron head compatible MGN12. The whole gantry part is exactly the Trident version of Voron, you can get all the stl files directly from the voron github. 
 
@@ -23,12 +22,10 @@ Recommended: ABS material, 40% infill, 5 top/bottom layers and 4 walls.
 The project is open source, all the parts necessary for the realization of the project are freely printable.
 
 Enjoy yourself!
-
----
+#
 
 La stampante presente nel video di [Power3D](https://www.youtube.com/watch?v=n7MDWOTaD58&t) prende come base questo progetto, ma é stata modificata con vari upgrade da [FBServiceTech3D](https://github.com/FBServiceTech3D). The printer featured in the [Power3D](https://www.youtube.com/watch?v=n7MDWOTaD58&t) video is based on this project, but has been modified with various upgrades by [FBServiceTech3D](https://github.com/FBServiceTech3D).
-
----
+#
 
 supportare i miei progetti - support my projects - [donate](https://www.paypal.com/donate/?business=WEP7ZAT7WRN88&no_recurring=0&currency_code=EUR)  
 
