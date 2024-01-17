@@ -30,5 +30,5 @@ La stampante presente nel video di [Power3D](https://www.youtube.com/watch?v=n7M
 
 ---
 
-supportare i miei progetti - support my projects - [donate - paypal](https://www.paypal.com/donate/?business=WEP7ZAT7WRN88&no_recurring=0&currency_code=EUR)  
+supportare i miei progetti - support my projects - [donate](https://www.paypal.com/donate/?business=WEP7ZAT7WRN88&no_recurring=0&currency_code=EUR)  
 
