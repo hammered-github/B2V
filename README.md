@@ -18,7 +18,8 @@ Enjoy yourself!
 La stampante presente nel video di [Power3D](https://www.youtube.com/watch?v=n7MDWOTaD58&t) prende come base questo progetto, ma é stata modificata con vari upgrade da [FBServiceTech3D](https://github.com/FBServiceTech3D). The printer featured in the [Power3D](https://www.youtube.com/watch?v=n7MDWOTaD58&t) video is based on this project, but has been modified with various upgrades by [FBServiceTech3D](https://github.com/FBServiceTech3D).
 #
 
-supportare i miei progetti - support my projects - [donate](https://www.paypal.com/donate/?business=WEP7ZAT7WRN88&no_recurring=0&currency_code=EUR)  
+[supportare i miei progetti - support my projects](https://www.paypal.com/donate/?business=WEP7ZAT7WRN88&no_recurring=0&currency_code=EUR)  
+
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
