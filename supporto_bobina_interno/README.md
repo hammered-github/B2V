@@ -1,6 +1,6 @@
-# Spool Holder B2V
+# Supporto bobina interno B2V
 
-![1](/supporto_bobina_interno/image/ass_b2v_supporto_bobina_interno.jpg)
+![1](/images/ass_b2v_supporto_bobina_interno.jpg)
 
 Material Required:
 - 2pz - F695 2RS

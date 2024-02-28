@@ -1,6 +1,6 @@
 # Telaio B2V
 
-![1](/telaio/image/ass_b2v_telaio.jpg)
+![1](/images/ass_b2v_telaio.jpg)
 
 Il telaio B2V si ricava dalle parti di telaio della BLV, tagliando alcuni profili ed altri semplicemente recuperandoli così come sono. Alcuni profili devono essere forati a misura, come indicato nei PDF, ci si può aiutare con gli appositi Jig (cartella tools).
 
@@ -28,9 +28,5 @@ Profili/Profiles 40x20:
 - 470mm x 9pz
 - 560mm x 4pz 
 
----
-
-Se vuoi supportare i miei progetti - If you want to support my projects
-
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate/?business=WEP7ZAT7WRN88&no_recurring=0&currency_code=EUR)  
-<p align="center"><sub><em>• non si assume nessuna responsabilità • assumes no responsibility •</em></sub></p>
+#
+[supportare i miei progetti - support my projects](https://www.paypal.com/donate/?business=WEP7ZAT7WRN88&no_recurring=0&currency_code=EUR)  
